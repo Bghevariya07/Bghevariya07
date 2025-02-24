@@ -1,10 +1,21 @@
-- Hi, I’m @Bghevariya07, full name Bhavya Ghevariya
-- I love to create websites, especially designing them creatively.
-- I am a front-end Developer and I like to create prototypes as well.
-- I’m currently studying Bachelors of Computer Science with a minor in Mathematics at Dalhousie University.
-- I am pursuing my undergrad certificate in Graphics, Gaming and Media
-- You can reach me through my e-mail - B.Ghevariya@dal.ca 
-<!---
-Bghevariya07/Bghevariya07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! 👋 I'm Bhavya Ghevariya
+A passionate Software Developer with experience in full-stack development, graphics programming, and cloud computing. I love building scalable, high-quality software solutions and solving real-world problems through code.
+
+🛠️ Tech Stack
+Languages: C++, Python, Rust, JavaScript, Java
+Frameworks: OpenGL, React, Node.js, Vue.js, Express
+Databases: SQL (MySQL, SQLite), NoSQL (MongoDB, Firebase)
+Tools: Git, Docker, Azure, Visual Studio, Postman
+
+💻 Projects
+StudyPal: A mobile app connecting students with tutors using Vue.js and .NET.
+RBC Hackathon: Built a program eligibility matrix with Spring Boot and React.
+ASL Translator: Real-time ASL-to-English translation using Python and JavaScript.
+
+🌱 Interests
+Graphics programming, game development, and cloud technologies.
+Promoting STEM education and fostering inclusive tech communities.
+
+📫 Let's Connect!
+Email: B.Ghevariya@dal.ca
+LinkedIn: Bhavya Ghevariya
