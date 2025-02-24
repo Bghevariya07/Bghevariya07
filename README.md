@@ -18,4 +18,3 @@
 
 📫 Let's Connect!
 - Email: B.Ghevariya@dal.ca
-- LinkedIn: Bhavya Ghevariya
